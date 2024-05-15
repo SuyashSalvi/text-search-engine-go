@@ -11,7 +11,6 @@ This project demonstrates building a full-text search engine in Go. The aim is t
 - **Modular Design**: Structured in a modular way, allowing developers to easily understand and extend the functionality.
 - **Tokenization**: Utilizes tokenization to break down text into individual tokens, facilitating efficient searching.
 - **Stemming**: Implements stemming to reduce words to their base form, improving search accuracy.
-- **Detailed Explanations**: Provides detailed explanations for each step of the implementation, making it accessible to developers of varying skill levels.
 
 #### Installation
 1. Clone the repository: `git clone https://github.com/your-username/text-search-engine-go.git`
